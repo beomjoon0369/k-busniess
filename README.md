@@ -1,2 +1,2 @@
 # k-busniess
-firebase web project - comstudynews
+## firebase web project - comstudynews@gmail.com
